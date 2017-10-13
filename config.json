@@ -13,20 +13,22 @@
     },
     {
       "core": false,
-      "difficulty": 1,
+      "difficulty": 3,
       "slug": "gigasecond",
       "topics": [
-        "dates"
+        "dates",
+        "arithmetic"
       ],
       "unlocked_by": null,
       "uuid": "176c1a86-28b1-4848-9f87-bd6ae10db6ba"
     },
     {
       "core": false,
-      "difficulty": 1,
+      "difficulty": 3,
       "slug": "bob",
       "topics": [
-        "control_flow_conditionals"
+        "control_flow_conditionals",
+        "string_comparison"
       ],
       "unlocked_by": null,
       "uuid": "9ac0b041-a7aa-4b0c-952a-d38d35e2cd65"
@@ -71,13 +73,14 @@
       "difficulty": 2,
       "slug": "pangram",
       "topics": [
-        "string_transformation"
+        "string_transformation",
+        "string_comparison"
       ],
       "uuid": "a7e2018a-c454-4fe0-ad35-229304306648"
     },
     {
       "core": false,
-      "difficulty": 2,
+      "difficulty": 4,
       "slug": "anagram",
       "topics": [
         "control_flow_loops",
@@ -110,7 +113,7 @@
     },
     {
       "core": false,
-      "difficulty": 2,
+      "difficulty": 1,
       "slug": "two-fer",
       "topics": [
         "control_flow_conditionals",
@@ -132,11 +135,12 @@
     },
     {
       "core": false,
-      "difficulty": 2,
+      "difficulty": 3,
       "slug": "word-count",
       "topics": [
         "control_flow_loops",
-        "string_comparison"
+        "string_comparison",
+        "associative_arrays"
       ],
       "unlocked_by": "pangram",
       "uuid": "51bd6542-408b-4a73-8343-1c4d50db5315"
@@ -147,7 +151,8 @@
       "slug": "phone-number",
       "topics": [
         "control_flow_conditionals",
-        "string_comparison"
+        "string_comparison",
+        "input_validation"
       ],
       "unlocked_by": "pangram",
       "uuid": "9f9a1a49-472f-4a39-aa28-6aa17eeebdc7"
